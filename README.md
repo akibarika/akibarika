@@ -1,4 +1,14 @@
-### Hi there 👋
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=akibarika&show_icons=true&theme=dracula" />
+
+### Hello World 👋
+ - 💻 TypeScript lover
+ - 🔨 Crafting Code
+ - 🤔 Keep Learning
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/akibarika/akibarika/main/github-user-contribution.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--
 **akibarika/akibarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
